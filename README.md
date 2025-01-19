@@ -7,4 +7,4 @@ This is a simple Blog Card project built using HTML and CSS. It displays a blog 
 * Easy to customize
 
 🌍 Live Demo
-🔗 View Live Site [Click here] (https://alashik001.github.io/threelblog/)
+🔗 View Live Site : [Click here] (https://alashik001.github.io/threelblog/)
